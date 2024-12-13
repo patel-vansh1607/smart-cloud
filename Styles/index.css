@@ -87,3 +87,16 @@
     border-radius: 56px 56px 0px 0px;
     
  }
+ .cont2 h1{
+    position: absolute;
+    width: 166px;
+    height: 48px;
+    left: 534px;
+    top: 778px;
+    font-family: 'Inter';
+    font-style: normal;
+    font-weight: 500;
+    font-size: 40px;
+    line-height: 48px;
+    color: #FFFFFF;
+ }
