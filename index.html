@@ -29,11 +29,20 @@
         <h1>SERVICES</h1>
     </div>
     <div class="one">
-        <div class="text2">
+        <div class="text2" onclick="openPopup('Web Design Project', 'A comprehensive web design project showcasing responsive design techniques.')">
             <img src="./Images/1.png" alt="1">
             <h1>WEB SERVICES</h1>
+            <p>/CLICK FOR MORE/</p>
         </div>
     </div>
     </div>
+    <div id="detailsPopup" class="popup">
+        <div class="popup-content">
+            <span class="close-popup" onclick="closePopup()">&times;</span>
+            <h2 id="popupTitle"></h2>
+            <p id="popupDescription"></p>
+        </div>
+    </div>
+<script src="./Scripts/index.js"></script>
 </body>
 </html>
