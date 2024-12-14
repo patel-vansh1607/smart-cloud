@@ -98,9 +98,20 @@
  .one:hover{
   background-color: #213bb0c2;
  }
-
- .text1 h1{
+ .text2 img{
+  width: 230px;
+  height: 170px;
+  position: relative;
+  left: 50px;
+  top: 50px;
+ }
+ .text2 h1{
+  font-family: 'Barlow';
   position: relative;
   z-index: 1;
-  color: #ffffffc7;
+  left: 50px;
+  top: 50px;
+  color: rgba(250, 235, 215, 0.884);
+
+ 
  }
