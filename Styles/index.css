@@ -90,4 +90,5 @@
   width: 345px;
   height: 370px;
   background-color: #213BB0;
+  transition: all(1s);
  }
