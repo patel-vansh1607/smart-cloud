@@ -93,7 +93,14 @@
   position: relative;
   top: 750px;
   transition: all(0.5s);
+  border-radius: 25px;
  }
  .one:hover{
   background-color: #213bb0c2;
+ }
+
+ .text1 h1{
+  position: relative;
+  z-index: 1;
+  color: #ffffffc7;
  }
