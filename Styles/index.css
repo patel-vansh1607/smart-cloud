@@ -117,7 +117,8 @@
   height: 370px;
   background-color: #eebc0d;
   position: relative;
-  top: 750px;
+  top: -255px;
+  left: 400px;
   transition: all(0.5s);
   border-radius: 25px;
  }
