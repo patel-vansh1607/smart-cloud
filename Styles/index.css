@@ -210,6 +210,15 @@
   left: 50px;
   top: 50px;
  }
+ .text6 h1{
+  font-family: 'Barlow';
+  position: relative;
+  z-index: 1;
+  left: 60px;
+  top: 50px;
+  width: 280px;
+  color: #000;
+ }
 
 
 
