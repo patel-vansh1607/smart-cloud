@@ -7,7 +7,7 @@
   <br>
 </h1>
 
-<h4 align="center">A portfolio made as part of our capstone project - we had to replicate our portfolio from a <a href="https://www.figma.com/design/ehQMllNfzw48Tlwwp6fmKy/Portfolio-for-Developers-(Community)?node-id=7-556&node-type=frame&t=IuN4tbcfqNXWqfb2-0" target="_blank">Figma Design</a> including exact fonts, size and colors. <a href="https://patel-vansh1607.github.io/capstone-project-mod-1/" target="_blank">See the Live Link for the Portfolio</a>.</h4>
+<h4 align="center">This Wesbite is made to learn using Java (JS) when opening a popup and closing a popup once a section is clicked <a href="https://patel-vansh1607.github.io/smart-cloud/" target="_blank">See the Live Link for the Portfolio</a>.</h4>
 
 <p align="center">
   <a href="#key-features">Key Features</a> •
