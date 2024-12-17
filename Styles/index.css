@@ -89,7 +89,7 @@
  .one{
   width: 345px;
   height: 370px;
-  background-color: #213BB0;
+  background-color: #eebc0d;
   position: relative;
   top: 750px;
   transition: all(0.5s);
@@ -109,8 +109,84 @@
   left: 60px;
   top: 50px;
   width: 280px;
-  color: rgba(250, 235, 215, 0.884);
+  color: #000;
  }
+
+ .two{
+  width: 345px;
+  height: 370px;
+  background-color: #eebc0d;
+  position: relative;
+  top: 750px;
+  transition: all(0.5s);
+  border-radius: 25px;
+ }
+
+ .text3 img{
+  width: 230px;
+  height: 170px;
+  position: relative;
+  left: 50px;
+  top: 50px;
+ }
+ .text3 h1{
+  font-family: 'Barlow';
+  position: relative;
+  z-index: 1;
+  left: 60px;
+  top: 50px;
+  width: 280px;
+  color: #000;
+ }
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
   .popup {
     display: none;
     position: fixed;
@@ -122,10 +198,11 @@
     z-index: 1000;
     justify-content: center;
     align-items: center;
+    color: #000;
 }
 
 .popup-content {
-    background-color: #213BB0;
+    background-color: #eebc0d;
     padding: 30px;
     max-width: 500px;
     width: 90%;
