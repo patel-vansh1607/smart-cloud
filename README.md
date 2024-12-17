@@ -81,15 +81,6 @@ This software uses the following open source packages:
 - [Portfolio-1](https://github.com/patel-vansh1607/portfolio-1) - My first portfolio made.
 
 
-## Projects Under-Construction...
-
-- [MEDDICAL](https://github.com/patel-vansh1607/MEDDICAL-hospital-website) - A hospital website called "MEDDICAL" making using a Figma Template. Stay in touch with the Github repository link.
-
-- [Filtro](https://github.com/patel-vansh1607/filtro-coffee-website) - A coffee website called "Filtro" making using a Figma Template. Stay in touch with the Github repository link.
-
-- [Login-Page](https://github.com/patel-vansh1607/login-dashboard) - A login dashboard -making using a Figma Template. Stay in touch with the Github repository link.
-
-
 ---
 
 > GitHub [@patel-vansh1607](https://github.com/patel-vansh1607) &nbsp;&middot;&nbsp;
