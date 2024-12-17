@@ -7,3 +7,8 @@ function openPopup(title, description) {
     popDescription.textContent = description;
     popUp.style.display = 'flex';
 }
+
+function closePopup() {
+    const close = document.getElementById('detailsPopup');
+    close.style.display = 'none';
+}
