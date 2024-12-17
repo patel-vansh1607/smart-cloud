@@ -356,8 +356,8 @@
   height: 370px;
   background-color: #eebc0d;
   position: relative;
-  top: -600px;
-  left: 00px;
+  top: -2370px;
+  left: 400px;
   transition: all(0.5s);
   border-radius: 25px;
  }
@@ -383,8 +383,8 @@
   height: 370px;
   background-color: #eebc0d;
   position: relative;
-  top: -600px;
-  left: 00px;
+  top: -2740px;
+  left: 800px;
   transition: all(0.5s);
   border-radius: 25px;
  }
@@ -404,39 +404,6 @@
   width: 280px;
   color: #000;
  }
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 
 
   .popup {
@@ -468,3 +435,4 @@
     right: 10px;
     cursor: pointer;
 }
+
