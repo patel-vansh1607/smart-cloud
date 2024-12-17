@@ -3,7 +3,7 @@
   <br>
   <a href="https://github.com/patel-vansh1607"><img src="./Images/logo.png" alt="Vansh Patel" width="200" ></a>
   <br>
-  Made by <a href="https://github.com/patel-vansh1607" target="_blank">Made by Vansh Patel</a>
+ <a href="https://github.com/patel-vansh1607" target="_blank">Made by Vansh Patel</a>
   <br>
 </h1>
 
