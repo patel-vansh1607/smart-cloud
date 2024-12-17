@@ -95,9 +95,6 @@
   transition: all(0.5s);
   border-radius: 25px;
  }
- .one:hover{
-  background-color: #213bb0c2;
- }
  .text2 img{
   width: 230px;
   height: 170px;
@@ -111,16 +108,9 @@
   z-index: 1;
   left: 60px;
   top: 50px;
+  width: 280px;
   color: rgba(250, 235, 215, 0.884);
  }
-  .text2 p{
-    font-family: 'Barlow';
-    font-weight: bolder;
-    color:rgba(250, 235, 215, 0.884); ;
-    position: relative;
-    left: 100px;
-    top: 50px;
-  }
   .popup {
     display: none;
     position: fixed;
