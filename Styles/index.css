@@ -246,7 +246,7 @@
   color: #000;
  }
 
- .six{
+ .seven{
   width: 345px;
   height: 370px;
   background-color: #eebc0d;
@@ -256,14 +256,14 @@
   transition: all(0.5s);
   border-radius: 25px;
  }
- .text7  img{
+ .text8  img{
   width: 230px;
   height: 170px;
   position: relative;
   left: 50px;
   top: 50px;
  }
- .text7 h1{
+ .text8 h1{
   font-family: 'Barlow';
   position: relative;
   z-index: 1;
