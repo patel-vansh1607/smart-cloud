@@ -8,14 +8,18 @@
     <link rel="icon" type="image/x-icon" href="./Images/favicon.png">
 </head>
 <body>
-    <header>
-        <div class="navbar">
-            <div class="logo">
-                <img src="./Images/logo.png" alt="logo">
+    <header class="header">
+        <nav class="nav-menu">
+            <img src="./Images/logo.png" alt="smartcloud">
+            <div class="menu-toggle" onclick="toggleMobileMenu()">
+                <i class="fa-solid fa-bars"></i>
             </div>
-            <button class="login-button">LOGIN</button>
-            <button class="signup-button">SIGN UP</button>
-        </div>
+            <ul id="navLink" class="nav-links">
+                <li><a href="#home">Home</a></li>
+                <li><a href="#portfolio">Portfolio</a></li>
+                <li><a href="#contact">Contact</a></li>
+            </ul>
+        </nav>
     </header>
     <div class="text1">
         <h1>Coded to perfection by the experts </h1>
@@ -26,10 +30,10 @@
            <img src="./Images/cloud img.png" alt="cldimg">
     </div>
     <div class="cont1">
-    <div class="cont2">
+    <div class="cont2" >
         <h1>SERVICES</h1>
     </div>
-    <div class="one">
+    <div class="one " id="services">
         <div class="text2" onclick="openPopup('Cloud Consulting', 'Our team of cloud experts analyzes your business needs and develops tailored strategies to optimize your cloud infrastructure, reduce costs, and improve performance.')">
             <img src="./Images/Proj-Folders/cld-conslt.png" alt="cld-conslt">
             <h1>Cloud Consulting</h1>
@@ -116,6 +120,27 @@
             <p id="popupDescription"></p>
         </div>
     </div>
+    <section id="contact" class="contact-form">
+        <h2>Get in touch</h2>
+        <form id="portfolioContactForm">
+            <input type="text" id="name" name="name" placeholder="Your Name">
+            <div id="nameError" class="form-error">Name is required</div>
+
+            <input id="email" name="email" placeholder="Your Email">
+            <div id="emailError" class="form-error">Please enter a valid email</div>
+
+            <textarea id="message" name="message" placeholder="Your Message"></textarea>
+            <div id="messageError" class="form-error">Message is required</div>
+
+            <button type="submit">Confirm Details</button>
+        </form>
+    </section>
+    <section id="localStorage-display" class="local-storage-data">
+        <h3>Last Submitted Form Data</h3>
+        <div id="storedDataContainer">
+            <p>No data submitted yet.</p>
+        </div>
+    </section>
 <script src="./Scripts/index.js"></script>
 </body>
 </html>
