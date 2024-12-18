@@ -69,7 +69,7 @@ This software uses the following open source packages:
 [Mr Edward Odhiambo](https://github.com/odhiambo-ed) - My Mentor
 
 ## Support
-[Report any issues in the Portfolio](https://github.com/patel-vansh1607/capstone-project-mod-1/issues) - Report any issues 
+[Report any issues in the Portfolio](https://github.com/patel-vansh1607/smart-cloud/issues) - Report any issues 
 
 ## You may also like...
 
