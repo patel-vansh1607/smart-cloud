@@ -23,6 +23,7 @@
 
 * A website that provides ultimate cloud features.
 * The main aim was to open a popup after a section is clicked - so I completed the task- check our the services corner and click on any to get more info.
+* A contact form that stores your data locally when you type.
 
 
 
