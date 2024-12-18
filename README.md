@@ -22,11 +22,8 @@
 ## Key Features
 
 * A website that provides ultimate cloud features.
-* Responsiveness.
-* Has links to my Github, Twitter, Instagram and LinkedIn profiles.
-* Short Introduction, engaging bio with a Photo.
-* Best 3 Projects done so far in Github.
-* A contact section with my Email.
+* The main aim was to open a popup after a section is clicked - so I completed the task- check our the services corner and click on any to get more info.
+
 
 
 
