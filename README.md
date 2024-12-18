@@ -21,7 +21,7 @@
 
 ## Key Features
 
-* My Portfolio.
+* A website that provides ultimate cloud features.
 * Responsiveness.
 * Has links to my Github, Twitter, Instagram and LinkedIn profiles.
 * Short Introduction, engaging bio with a Photo.
