@@ -9,32 +9,50 @@
     left: 1150px;
     top: -20px;
 } 
-  .login-button {
-    background-color: white;
-    color: black;
-    border: 1px solid black;
-    padding: 10px 20px;
-    border-radius: 5px;
-    font-size: 16px;
-    cursor: pointer;
-    font-family: 'Barlow';
-  }
-  
-  .signup-button {
-    background: linear-gradient(to right, #ffa500, #ff7f00); 
-    color: black;
-    border: none;
-    padding: 10px 20px;
-    border-radius: 5px;
-    font-size: 16px;
-    cursor: pointer;
-    font-family: 'Barlow';
-  }
-  
-  button:hover {
-    opacity: 0.9; 
-  }
-  
+
+body {
+  margin: 0;
+  font-family: Arial, sans-serif;
+}
+
+.header {
+  color: white;
+  padding: 1rem;
+  position: relative;
+}
+
+.nav-menu {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+}
+
+.menu-toggle {
+  display: none;
+  cursor: pointer;
+  flex-direction: column;
+  width: 30px;
+}
+
+.menu-toggle i {
+  margin: 4px 0;
+  transition: 0.4s;
+}
+
+.nav-links {
+  display: flex;
+  list-style: none;
+}
+
+.nav-links li {
+  margin: 0 15px;
+}
+
+.nav-links a {
+  color: #eebc0d;
+  text-decoration: none;
+}
+
   .text1 h1{
     position: absolute;
     width: 461px;
@@ -436,3 +454,82 @@
     cursor: pointer;
 }
 
+.contact-form {
+  max-width: 500px;
+  margin: 20px auto;
+  background-color: #eebc0d;
+  padding: 20px;
+  box-shadow: 0 4px 6px rgba(0,0,0,0.1);
+  position: relative;
+  top: 2000px;
+}
+
+.contact-form input,
+.contact-form textarea {
+  width: 100%;
+  padding: 10px;
+  margin: 10px 0;
+  border: 1px solid #ddd;
+}
+
+.form-error {
+  color: red;
+  font-size: 0.8rem;
+  display: none;
+}
+
+.contact-form button {
+  background-color: #0d1cf0;
+  padding: 10px 20px;
+  border: none;
+  border-radius: 8px;
+}
+
+.local-storage-data {
+  max-width: 500px;
+  margin: 20px auto;
+  background-color: #eebc0d;
+  padding: 20px;
+  border: 1px solid #ddd;
+  position: relative;
+  top: 2000px;
+}
+
+.local-storage-data h3 {
+  margin-bottom: 10px;
+  color: #333;
+}
+
+.local-storage-data p {
+  margin: 5px 0;
+  word-break: break-word;
+}
+
+@media screen and (max-width: 768px) {
+  .menu-toggle {
+      display: flex;
+  }
+
+  .nav-links {
+      display: none;
+      flex-direction: column;
+      width: 100%;
+      position: absolute;
+      top: 100%;
+      left: 0;
+      background-color: #333;
+  }
+
+  .nav-links.active {
+      display: flex;
+  }
+
+  .nav-links li {
+      margin: 10px 0;
+      text-align: center;
+  }
+
+  .portfolio-item {
+      width: 100%;
+  }
+}
