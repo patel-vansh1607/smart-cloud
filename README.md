@@ -79,7 +79,8 @@ A Full Stack Developer Student, making use of the small opportunities to make a 
 - [Introduction to my Class teachers and students](https://github.com/patel-vansh1607/adv-css-and-bootstrap) - A website made using bootstrap and css.
 - [Portfolio-1](https://github.com/patel-vansh1607/portfolio-1) - My first portfolio made.
 
-
+## Authors
+<a href="https://github.com/patel-vansh1607" target="_blank">Made by Vansh Patel</a>
 ---
 
 
