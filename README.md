@@ -80,7 +80,7 @@ A Full Stack Developer Student, making use of the small opportunities to make a 
 - [Portfolio-1](https://github.com/patel-vansh1607/portfolio-1) - My first portfolio made.
 
 ## Authors
-<img src="./Images/vansh.png" alt="Vansh Patel" width="200" >
+<img src="./Images/vansh.png" alt="Vansh Patel" width="100" height="100" > ~ Vansh Patel
 ---
 
 
