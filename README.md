@@ -34,10 +34,10 @@ To clone and run this application, you'll need [Git](https://git-scm.com) and [N
 
 ```bash
 # Clone this repository
-$ git clone https://github.com/patel-vansh1607/capstone-project-mod-1
+$ git clone https://github.com/patel-vansh1607/smart-cloud.git
 
 # Go into the repository
-$ cd capstone-project-mod-1
+$ cd smart-cloud
 
 # Install dependencies
 $ npm install
