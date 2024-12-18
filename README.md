@@ -71,6 +71,7 @@ This software uses the following open source packages:
 ## Support
 [Report any issues in the Portfolio](https://github.com/patel-vansh1607/smart-cloud/issues) - Report any issues.
 
+A Full Stack Developer Student, making use of the small opportunities to make a big impact and work hard to make my dreams successful and to create even more bigger projects - Reach out to me for any advice/ problem or work.
 
 ## You may also like...
 
@@ -80,7 +81,7 @@ This software uses the following open source packages:
 
 
 ---
-A Full Stack Developer Student, making use of the small opportunities to make a big impact and work hard to make my dreams successful and to create even more bigger projects - Reach out to me for any advice/ problem or work.
+
 
 > GitHub [@patel-vansh1607](https://github.com/patel-vansh1607) &nbsp;&middot;&nbsp;
 > Twitter [@im_v_v_p](https://x.com/im_v_v_p) &nbsp;&middot;&nbsp;
